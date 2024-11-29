@@ -1,1 +1,1 @@
-# odin-recipes
+I will create a website where it will have 3 different links to each recipe of the dish. The skills i will be demonstrating in this will be the newest html elements, attributes and git commands. 
